@@ -1,2 +1,2 @@
 #!/bin/sh
-echo " hello world "
+printf " hello world test"
